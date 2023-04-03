@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=SW1 Old Footprint=TSW 3*6*4.3-S-W New Footprint=¹ê×ÐÎ¢¶¯
+Change Component Footprint: Designator=SW2 Old Footprint=TSW 3*6*4.3-S-W New Footprint=¹ê×ÐÎ¢¶¯
+Added Pin To Net: NetName=6050 SDA Pin=U1-10
+Added Pin To Net: NetName=6050 SCL Pin=U1-11

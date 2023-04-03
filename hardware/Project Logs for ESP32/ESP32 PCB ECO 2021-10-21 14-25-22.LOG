@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=RES Pin=U1-30
+Added Pin To Net: NetName=CLK Pin=U1-31
+Added Pin To Net: NetName=D/C Pin=U1-33
+Added Pin To Net: NetName=CS Pin=U1-36
+Added Pin To Net: NetName=MOSI Pin=U1-37

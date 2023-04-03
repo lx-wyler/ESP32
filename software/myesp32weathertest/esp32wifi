@@ -1,0 +1,9 @@
+ESP32连接WiFi并使用http请求心知天气获得天气信息
+请求API：https://api.seniverse.com/v3/weather/now.json?key=SRinrrJnDHU2VXs_z&location=jilin&language=zh-Hans&unit=c
+其中，now可以换“daily”，key=后面是自己的私钥，jilin可换其他地点，language后面是语言，最后的c单位
+
+软件方面：
+ESP32用wifi里station的例程，然后用iff.py menuconfig修改WiFi名称和密码，http请求用书签里面的那个5-2的教程（教程里面是https，要改成http）。然后是JSON格式数据的解析，要注意怎么解析数组和普通的值。屏幕显示就直接用的简单的IPS的库。
+
+心知天气账号：手机号，liu123456，网站的话直接搜就行。
+

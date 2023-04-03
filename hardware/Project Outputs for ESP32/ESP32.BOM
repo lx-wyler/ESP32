@@ -1,0 +1,25 @@
+Bill of Material for 
+On 2022/6/24 at 14:44:36
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0Ω                  R0603            1    R12                          贴片电阻                 
+ 1.3寸IPS             1.3寸IPS          1    U4                                                
+ 100nF               C0603            5    C1, C2, C3, C6, C8           无极性贴片电容              
+ 10K                 R0603            6    R3, R6, R9, R10, R11, R15    贴片电阻                 
+ 10nF                C0603            1    C5                           无极性贴片电容              
+ 10uf钽               C1206A           1    C4                           大电解                  
+ 10Ω                 R0603            1    R13                          贴片电阻                 
+ 12K                 R0603            2    R4, R5                       贴片电阻                 
+ 1K                  R0603            5    R1, R2, R7, R14, R18         贴片电阻                 
+ 2.2nF               C0603            1    C7                           无极性贴片电容              
+ 3x6x5               龟仔微动             2    SW1, SW2                     3x6轻触开关              
+ 4.7K                R0603            3    R8, R16, R17                 贴片电阻                 
+ CP2102-GMR          QFN28            1    U2                                                
+ ESP32-WROOM-32(8MB) ESP32MOUDLE      1    U1                                                
+ LED                 0603LED_RED      2    D1, D2                       Typical RED, GREEN, YELLOW, AMBER GaAs LED 
+ LM1117              SOT-223          1    U3                           5V 3V3               
+ MPU6050             QFN24            1    U5                           六轴传感器                
+ SS8050              SOT23-3N         3    Q1, Q2, Q3                   高频放大-NPN型            
+ TouchPad            TouchPad         1    T1                                                
+ Type-C 16P          typec            1    TypeC1                                            

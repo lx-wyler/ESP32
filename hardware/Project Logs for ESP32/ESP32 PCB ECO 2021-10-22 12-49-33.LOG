@@ -1,0 +1,5 @@
+Added Component: Designator=T?(TouchPad)
+Added Pin To Net: NetName=TOUCH Pin=T?-1
+Added Pin To Net: NetName=TOUCH Pin=U1-26
+Added Net: Name=TOUCH
+Added Member To Class: ClassName=ESP32 Member=Component T? TouchPad

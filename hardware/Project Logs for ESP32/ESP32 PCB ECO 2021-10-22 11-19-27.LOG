@@ -1,0 +1,15 @@
+Added Component: Designator=R16(R0603)
+Added Component: Designator=R17(R0603)
+Added Pin To Net: NetName=3.3V Pin=C5-2
+Added Pin To Net: NetName=3.3V Pin=C8-2
+Added Pin To Net: NetName=3.3V Pin=R15-1
+Added Pin To Net: NetName=6050 SDA Pin=R16-1
+Added Pin To Net: NetName=3.3V Pin=R16-2
+Added Pin To Net: NetName=6050 SCL Pin=R17-1
+Added Pin To Net: NetName=3.3V Pin=R17-2
+Added Pin To Net: NetName=3.3V Pin=U4-3
+Added Pin To Net: NetName=3.3V Pin=U4-4
+Added Pin To Net: NetName=3.3V Pin=U5-8
+Added Pin To Net: NetName=3.3V Pin=U5-13
+Added Member To Class: ClassName=ESP32 Member=Component R16 4.7K
+Added Member To Class: ClassName=ESP32 Member=Component R17 4.7K

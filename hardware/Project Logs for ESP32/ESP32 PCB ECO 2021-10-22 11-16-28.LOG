@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=VUSB Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=IPS 3.3 Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=VUSB Pin=C11-2
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=6050 3.3 Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=U6-1
+Removed Pin From Net: NetName=IPS 3.3 Pin=U6-2
+Removed Pin From Net: NetName=VUSB Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U7-1
+Removed Pin From Net: NetName=6050 3.3 Pin=U7-2
+Removed Pin From Net: NetName=VUSB Pin=U7-3
+Removed Member From Class: ClassName=ESP32 Member=C9
+Removed Member From Class: ClassName=ESP32 Member=C10
+Removed Member From Class: ClassName=ESP32 Member=C11
+Removed Member From Class: ClassName=ESP32 Member=C12
+Removed Member From Class: ClassName=ESP32 Member=U6
+Removed Member From Class: ClassName=ESP32 Member=U7

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=BLK Pin=R10-1
+Added Pin To Net: NetName=BLK Pin=U1-29
+Added Room: Name=ESP32
